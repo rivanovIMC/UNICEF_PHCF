@@ -1653,4 +1653,4 @@ Manual,CUSTOM3,ID_3088718663,ФОП РАДЬКО ІННА ОЛЕКСАНДРІВ
 Manual,CUSTOM4,ID_3440412162,ФОП ЛЕТА ОКСАНА РУСЛАНІВНА,,,,,tel:,,,,,UA35,Kirovohradska,UA3504,Kropyvnytskyi,,,,,3440412162,private,1,
 Manual,CUSTOM5,ID_3114817466,ФОП СОЛОНЬКО ТЕТЯНА ОЛЕКСІЇВНА,,,,,tel:,,,,,UA35,Kirovohradska,UA3504,Kropyvnytskyi,,,,,3114817466,private,1,
 NHSU Dataset,9293432f-46c7-47fa-b232-456508301751,ID_02003847,КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО МІСЬКА КЛІНІЧНА ЛІКАРНЯ № 31 ХАРКІВСЬКОЇ МІСЬКОЇ РАДИ,Primary,Первинна,mkl31@ukr.net,,tel:+380577255768,Городчук Людмила Петрівна,"Україна, 78060, Івано-Франківська обл., Тлумацький р-н, селище міського типу Обертин, ВУЛИЦЯ Б.ХМЕЛЬНИЦЬКОГО, будинок 14А",49.972491,36.191106,UA63,Kharkivska,UA6312,Kharkivskyi,UA6312027,Kharkivska,UA6312027001,Kharkiv,2003847,public,1,
-TEST,TEST-11111111-UUID,ID_11111111,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,11111111,TEST,,
+TEST,TEST-11111111-UUID,ID_12345678,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,TEST,12345678,TEST,,
